@@ -3,8 +3,7 @@
 %define unmangled_version 1.2
 %define release 1
 
-Summary: TPM-based key bootstrapping and system integrity measurement system
-for cloud
+Summary: keylime is a scalable trusted cloud key management system. keylime provides an end-to-end solution for both bootstrapping hardware rooted cryptographic identities for IaaS nodes and for system integrity monitoring of those nodes via periodic attestation.
 Name: %{name}
 Version: %{version}
 Release: %{release}
